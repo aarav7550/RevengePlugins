@@ -18,7 +18,15 @@ function clean(text: string) {
 			return str;
 		}
 
-		return cleanUrl(url.toString());
+		let cleaned = cleanUrl(url.toString());
+
+		// Rewrite Instagram links (posts/reels/tv/profiles) to the "og" embed domain
+		cleaned = cleaned.replace(
+			/^(https?:\/\/)(www\.)?instagram\.com(\/(?:reel|p|tv)\/[^\s]*|\/(?!explore|accounts|direct|stories)[a-zA-Z0-9_.]+\/?)/i,
+			"$1oginsta.com$3"
+		);
+
+		return cleaned;
 	});
 }
 
