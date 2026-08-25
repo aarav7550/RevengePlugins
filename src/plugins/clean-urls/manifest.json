@@ -1,6 +1,6 @@
 {
-	"name": "Clean URLs",
-	"description": "Removes tracking garbage from links sent and received",
+	"name": "Clean URLs (OG Insta)",
+	"description": "Removes tracking garbage from links sent and received and adds og to insta links",
 	"authors": [
 		{
 			"name": "nexpid",
