@@ -3,8 +3,8 @@
 	"description": "Removes tracking garbage from links sent and received and adds og to Insta links",
 	"authors": [
 		{
-			"name": "nexpid",
-			"id": "853550207039832084"
+			"name": "aarav",
+			"id": ""
 		}
 	],
 	"main": "src/index.ts",
