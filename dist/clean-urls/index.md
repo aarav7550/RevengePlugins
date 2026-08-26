@@ -1,5 +1,5 @@
 ---
-title: Clean URLs (OG Insta) (by nexpid)
+title: Clean URLs (OG Insta) (by aarav)
 description: Removes tracking garbage from links sent and received and adds og to Insta links
 ---
 
@@ -9,7 +9,7 @@ description: Removes tracking garbage from links sent and received and adds og t
 -->
 
 <div align="center">
-<h1>Clean URLs (OG Insta) (by nexpid)</h1>
+<h1>Clean URLs (OG Insta) (by aarav)</h1>
 <h3>Removes tracking garbage from links sent and received and adds og to Insta links</h3>
 </div>
 
