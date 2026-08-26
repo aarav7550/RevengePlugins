@@ -1,3 +1,0 @@
--s GITHUB_TOKEN="<TOKEN HERE>"
--e .github/act_event.json
---action-offline-mode

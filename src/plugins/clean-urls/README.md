@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-Clean URLs
+Clean URLs (OG Insta)
 </h1>
 
-Removes tracking garbage from links sent and received
+Removes tracking garbage from links sent and received and adds og to Insta links
