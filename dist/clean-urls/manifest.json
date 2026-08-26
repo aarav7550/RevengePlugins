@@ -1,1 +1,1 @@
-{"name":"Clean URLs (OG Insta)","description":"Removes tracking garbage from links sent and received and adds og to Insta links","authors":[{"name":"aarav","id":"0"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"1a94594b0ce1d7e52785bf7c4ce265dd3492482d347d5d18edc88fd4d13ae758"}
+{"name":"Clean URLs (OG Insta)","description":"Removes tracking garbage from links sent and received and adds og to Insta links","authors":[{"name":"aarav","id":"0"}],"main":"index.js","vendetta":{"icon":"LinkIcon"},"hash":"a576af47bda7e87952909b1524cc180fd349050f4bc2db5834acedf4bb81d250"}
